@@ -1,0 +1,205 @@
+customer,market,region,"Net Sales (Million)","Revenue Contribution (%)","Cumulative Revenue (%)","Customer Segment"
+"Amazon ",India,APAC,30.00,3.64,3.64,A
+"Atliq Exclusive",India,APAC,23.98,2.91,6.55,A
+Sage,"South Korea",APAC,22.85,2.77,9.33,A
+Leader,"South Korea",APAC,22.38,2.72,12.04,A
+Neptune,China,APAC,20.14,2.44,14.49,A
+"Amazon ",USA,NA,20.09,2.44,16.93,A
+Synthetic,Philiphines,APAC,14.14,1.72,18.64,A
+Flipkart,India,APAC,12.96,1.57,20.22,A
+Novus,Philiphines,APAC,12.91,1.57,21.78,A
+Electricalsocity,India,APAC,12.31,1.49,23.28,A
+Propel,India,APAC,11.86,1.44,24.72,A
+Expression,India,APAC,11.55,1.40,26.12,A
+"Atliq e Store",India,APAC,11.33,1.38,27.49,A
+Girias,India,APAC,11.30,1.37,28.86,A
+"Vijay Sales",India,APAC,11.27,1.37,30.23,A
+Ebay,India,APAC,11.14,1.35,31.58,A
+"Reliance Digital",India,APAC,11.10,1.35,32.93,A
+Electricalslytical,India,APAC,11.08,1.34,34.28,A
+Lotus,India,APAC,10.53,1.28,35.56,A
+Flipkart,USA,NA,10.35,1.26,36.81,A
+Ezone,India,APAC,10.30,1.25,38.06,A
+"Amazon ",Canada,NA,10.22,1.24,39.30,A
+"Atliq Exclusive",USA,NA,10.15,1.23,40.53,A
+Viveks,India,APAC,10.09,1.22,41.76,A
+Croma,India,APAC,9.88,1.20,42.96,A
+Path,USA,NA,9.10,1.10,44.06,A
+Ebay,USA,NA,8.74,1.06,45.12,A
+walmart,USA,NA,8.65,1.05,46.17,A
+"Acclaimed Stores",USA,NA,8.53,1.03,47.21,A
+"Atliq e Store",USA,NA,8.48,1.03,48.24,A
+Control,USA,NA,8.48,1.03,49.27,A
+BestBuy,USA,NA,8.26,1.00,50.27,A
+Costco,USA,NA,8.24,1.00,51.27,A
+"Circuit City",USA,NA,8.11,0.98,52.25,A
+Staples,USA,NA,7.74,0.94,53.19,A
+"Radio Shack",USA,NA,7.12,0.86,54.06,A
+"Atliq Exclusive","South Korea",APAC,6.85,0.83,54.89,A
+"Atliq Exclusive",Indonesia,APAC,6.50,0.79,55.68,A
+"Atliq e Store","South Korea",APAC,6.06,0.73,56.41,A
+"Amazon ",Indonesia,APAC,6.03,0.73,57.15,A
+"Atliq e Store",Indonesia,APAC,5.92,0.72,57.87,A
+"Amazon ","South Korea",APAC,5.87,0.71,58.58,A
+"Acclaimed Stores",Indonesia,APAC,5.79,0.70,59.28,A
+Zone,China,APAC,5.43,0.66,59.94,A
+"Atliq Exclusive",Canada,NA,4.80,0.58,60.52,A
+Electricalslytical,"United Kingdom",EU,4.56,0.55,61.08,A
+"Atliq Exclusive",Australia,APAC,4.48,0.54,61.62,A
+"Electricalsquipo Stores","United Kingdom",EU,4.33,0.53,62.14,A
+Taobao,China,APAC,4.31,0.52,62.67,A
+"Atliq Exclusive",France,EU,4.26,0.52,63.19,A
+UniEuro,"United Kingdom",EU,4.25,0.52,63.70,A
+Sage,Canada,NA,4.22,0.51,64.21,A
+"Radio Popular","United Kingdom",EU,4.10,0.50,64.71,A
+"Logic Stores","United Kingdom",EU,4.10,0.50,65.21,A
+Sorefoz,France,EU,4.09,0.50,65.70,A
+Expert,"United Kingdom",EU,4.09,0.50,66.20,A
+"Atliq Exclusive",Philiphines,APAC,4.07,0.49,66.70,A
+Coolblue,"United Kingdom",EU,4.00,0.49,67.18,A
+"Atliq e Store",Australia,APAC,3.98,0.48,67.66,A
+walmart,Canada,NA,3.98,0.48,68.15,A
+"Atliq e Store","United Kingdom",EU,3.98,0.48,68.63,A
+Digimarket,Australia,APAC,3.97,0.48,69.11,A
+"Amazon ",Australia,APAC,3.95,0.48,69.59,A
+Costco,Canada,NA,3.95,0.48,70.07,B
+Electricalsocity,Australia,APAC,3.94,0.48,70.55,B
+"Atliq e Store",Canada,NA,3.94,0.48,71.03,B
+"Amazon ","United Kingdom",EU,3.91,0.47,71.50,B
+"Atliq e Store",France,EU,3.91,0.47,71.98,B
+"Media Markt",France,EU,3.91,0.47,72.45,B
+"Amazon ",France,EU,3.89,0.47,72.92,B
+"Forward Stores",Australia,APAC,3.83,0.47,73.39,B
+Staples,Canada,NA,3.75,0.45,73.84,B
+"Nomad Stores",Canada,NA,3.73,0.45,74.30,B
+"Amazon ",Philiphines,APAC,3.72,0.45,74.75,B
+"Atlas Stores","United Kingdom",EU,3.71,0.45,75.20,B
+Elite,France,EU,3.70,0.45,75.65,B
+"Chip 7","United Kingdom",EU,3.70,0.45,76.10,B
+"Premium Stores",Canada,NA,3.70,0.45,76.55,B
+Elkjøp,France,EU,3.64,0.44,76.99,B
+Relief,Canada,NA,3.61,0.44,77.43,B
+Insight,Philiphines,APAC,3.61,0.44,77.86,B
+"Chip 7",France,EU,3.53,0.43,78.29,B
+"Epic Stores",France,EU,3.53,0.43,78.72,B
+Sound,Australia,APAC,3.44,0.42,79.14,B
+"Atliq e Store",Philiphines,APAC,3.44,0.42,79.55,B
+UniEuro,France,EU,3.37,0.41,79.96,B
+"Atliq Exclusive",Norway,EU,2.74,0.33,80.29,B
+"Amazon ",Japan,APAC,2.62,0.32,80.61,B
+Chiptec,Norway,EU,2.37,0.29,80.90,B
+"Atliq Exclusive",Newzealand,APAC,2.35,0.28,81.19,B
+Mbit,Norway,EU,2.30,0.28,81.46,B
+Propel,Newzealand,APAC,2.28,0.28,81.74,B
+"Atliq e Store",Norway,EU,2.26,0.27,82.02,B
+Sound,Norway,EU,2.25,0.27,82.29,B
+"Atliq Exclusive",Bangladesh,APAC,2.24,0.27,82.56,B
+"Logic Stores",Newzealand,APAC,2.21,0.27,82.83,B
+"Amazon ",Norway,EU,2.16,0.26,83.09,B
+Leader,Newzealand,APAC,2.13,0.26,83.35,B
+Boulanger,Norway,EU,2.13,0.26,83.61,B
+"Amazon ",Newzealand,APAC,2.10,0.25,83.86,B
+UniEuro,Norway,EU,2.01,0.24,84.11,B
+Synthetic,Norway,EU,1.96,0.24,84.35,B
+Flipkart,Spain,EU,1.94,0.24,84.58,B
+"Epic Stores",Newzealand,APAC,1.93,0.23,84.81,B
+"Atliq e Store",Bangladesh,APAC,1.92,0.23,85.05,B
+Path,Newzealand,APAC,1.92,0.23,85.28,B
+"Atliq e Store",Newzealand,APAC,1.90,0.23,85.51,B
+"Atliq Exclusive",Germany,EU,1.80,0.22,85.73,B
+"Surface Stores",Bangladesh,APAC,1.76,0.21,85.94,B
+"Atliq Exclusive",Netherlands,EU,1.76,0.21,86.16,B
+Fnac-Darty,Germany,EU,1.74,0.21,86.37,B
+"Atliq e Store",Portugal,EU,1.73,0.21,86.58,B
+"Atliq Exclusive",Italy,EU,1.72,0.21,86.79,B
+Elite,Spain,EU,1.71,0.21,86.99,B
+Relief,Spain,EU,1.70,0.21,87.20,B
+Elkjøp,Spain,EU,1.69,0.21,87.41,B
+"Atliq e Store",Spain,EU,1.67,0.20,87.61,B
+"Electricalslance Stores",Portugal,EU,1.67,0.20,87.81,B
+"Amazon ",Italy,EU,1.66,0.20,88.01,B
+Boulanger,Spain,EU,1.65,0.20,88.21,B
+Billa,Germany,EU,1.65,0.20,88.41,B
+"Reliance Digital",Netherlands,EU,1.65,0.20,88.61,B
+Control,Bangladesh,APAC,1.62,0.20,88.81,B
+"Amazon ",Spain,EU,1.62,0.20,89.01,B
+Power,Portugal,EU,1.62,0.20,89.20,B
+"Media Markt",Spain,EU,1.61,0.20,89.40,B
+"Unity Stores",Italy,EU,1.60,0.19,89.59,B
+Euronics,Portugal,EU,1.60,0.19,89.79,B
+"Amazon ",Germany,EU,1.59,0.19,89.98,B
+Coolblue,Italy,EU,1.59,0.19,90.17,C
+"Atliq e Store",Germany,EU,1.58,0.19,90.36,C
+Otto,Germany,EU,1.57,0.19,90.55,C
+"Amazon ",Bangladesh,APAC,1.57,0.19,90.74,C
+"Amazon ",Portugal,EU,1.57,0.19,90.93,C
+Chiptec,Spain,EU,1.56,0.19,91.12,C
+Saturn,Germany,EU,1.56,0.19,91.31,C
+Expert,Italy,EU,1.56,0.19,91.50,C
+"Amazon ",Pakistan,APAC,1.55,0.19,91.69,C
+Euronics,Spain,EU,1.55,0.19,91.88,C
+Fnac-Darty,Italy,EU,1.55,0.19,92.07,C
+"Nomad Stores",Pakistan,APAC,1.55,0.19,92.25,C
+Sorefoz,Portugal,EU,1.54,0.19,92.44,C
+Boulanger,Italy,EU,1.54,0.19,92.63,C
+Mbit,Portugal,EU,1.53,0.19,92.81,C
+"Currys (Dixons Carphone)",Germany,EU,1.51,0.18,93.00,C
+"Radio Popular",Netherlands,EU,1.51,0.18,93.18,C
+"Electricalsara Stores",Portugal,EU,1.51,0.18,93.36,C
+"Info Stores",Portugal,EU,1.51,0.18,93.55,C
+"Argos (Sainsbury's)",Italy,EU,1.49,0.18,93.73,C
+Zone,Pakistan,APAC,1.48,0.18,93.91,C
+"Forward Stores",Portugal,EU,1.48,0.18,94.09,C
+"Atliq e Store",Pakistan,APAC,1.48,0.18,94.27,C
+"Flawless Stores",Portugal,EU,1.47,0.18,94.45,C
+Notebillig,Germany,EU,1.47,0.18,94.62,C
+Euronics,Italy,EU,1.46,0.18,94.80,C
+"Atliq e Store",Netherlands,EU,1.45,0.18,94.98,C
+Digimarket,Germany,EU,1.44,0.18,95.15,C
+Expert,Germany,EU,1.44,0.17,95.33,C
+"Integration Stores",Spain,EU,1.44,0.17,95.50,C
+Elkjøp,Netherlands,EU,1.43,0.17,95.68,C
+"Atliq e Store",Italy,EU,1.42,0.17,95.85,C
+"Electricalslance Stores",Netherlands,EU,1.40,0.17,96.02,C
+"Premium Stores",Portugal,EU,1.39,0.17,96.19,C
+"Media Markt",Netherlands,EU,1.36,0.17,96.35,C
+Mbit,Netherlands,EU,1.35,0.16,96.52,C
+Expression,Pakistan,APAC,1.35,0.16,96.68,C
+"Radio Popular",Italy,EU,1.33,0.16,96.84,C
+"Amazon ",Netherlands,EU,1.30,0.16,97.00,C
+"Atliq Exclusive",Japan,APAC,1.11,0.14,97.14,C
+"Atliq Exclusive",Poland,EU,1.10,0.13,97.27,C
+All-Out,Japan,APAC,1.06,0.13,97.40,C
+"Amazon ",Poland,EU,1.06,0.13,97.53,C
+"Surface Stores",Japan,APAC,1.02,0.12,97.65,C
+"Argos (Sainsbury's)",Poland,EU,1.00,0.12,97.77,C
+Power,Poland,EU,0.98,0.12,97.89,C
+"Electricalsbea Stores",Japan,APAC,0.95,0.12,98.01,C
+"Atliq e Store",Japan,APAC,0.94,0.11,98.12,C
+"Currys (Dixons Carphone)",Poland,EU,0.91,0.11,98.23,C
+"Electricalsara Stores",Poland,EU,0.91,0.11,98.34,C
+"Flawless Stores",Japan,APAC,0.90,0.11,98.45,C
+"Atliq e Store",Poland,EU,0.90,0.11,98.56,C
+"Info Stores",Japan,APAC,0.89,0.11,98.67,C
+Expert,Poland,EU,0.89,0.11,98.78,C
+Neptune,Japan,APAC,0.86,0.10,98.88,C
+"Amazon ",Mexico,LATAM,0.61,0.07,98.96,C
+"Atliq e Store",Mexico,LATAM,0.58,0.07,99.03,C
+"Amazon ",Austria,EU,0.51,0.06,99.09,C
+"Atliq e Store",Brazil,LATAM,0.51,0.06,99.15,C
+"Amazon ",Sweden,EU,0.50,0.06,99.21,C
+"Amazon ",Brazil,LATAM,0.49,0.06,99.27,C
+Sorefoz,Sweden,EU,0.49,0.06,99.33,C
+Euronics,Austria,EU,0.49,0.06,99.39,C
+Fnac-Darty,Austria,EU,0.48,0.06,99.45,C
+"Atliq e Store",Sweden,EU,0.47,0.06,99.51,C
+"Argos (Sainsbury's)",Sweden,EU,0.47,0.06,99.56,C
+"Atliq e Store",Austria,EU,0.46,0.06,99.62,C
+Nova,Austria,EU,0.46,0.06,99.68,C
+"Atlas Stores",Austria,EU,0.45,0.05,99.73,C
+"Integration Stores",Austria,EU,0.44,0.05,99.78,C
+"Amazon ",Chile,LATAM,0.43,0.05,99.84,C
+"Electricalsquipo Stores",Austria,EU,0.42,0.05,99.89,C
+Expert,Sweden,EU,0.40,0.05,99.94,C
+"Electricalsbea Stores",Chile,LATAM,0.38,0.05,99.98,C
+"Electricalsbea Stores",Columbia,LATAM,0.16,0.02,100.00,C

@@ -1,0 +1,205 @@
+customer,market,net_sales_mln,market_contribution_pct
+Atliq Exclusive,Australia,4.48,16.24
+Atliq e Store,Australia,3.98,14.43
+Digimarket,Australia,3.97,14.39
+Amazon ,Australia,3.95,14.32
+Electricalsocity,Australia,3.94,14.28
+Forward Stores,Australia,3.83,13.88
+Sound,Australia,3.44,12.47
+Amazon ,Austria,0.51,13.75
+Euronics,Austria,0.49,13.21
+Fnac-Darty,Austria,0.48,12.94
+Nova,Austria,0.46,12.4
+Atliq e Store,Austria,0.46,12.4
+Atlas Stores,Austria,0.45,12.13
+Integration Stores,Austria,0.44,11.86
+Electricalsquipo Stores,Austria,0.42,11.32
+Atliq Exclusive,Bangladesh,2.24,24.59
+Atliq e Store,Bangladesh,1.92,21.08
+Surface Stores,Bangladesh,1.76,19.32
+Control,Bangladesh,1.62,17.78
+Amazon ,Bangladesh,1.57,17.23
+Atliq e Store,Brazil,0.51,51
+Amazon ,Brazil,0.49,49
+Amazon ,Canada,10.22,22.27
+Atliq Exclusive,Canada,4.8,10.46
+Sage,Canada,4.22,9.19
+walmart,Canada,3.98,8.67
+Costco,Canada,3.95,8.61
+Atliq e Store,Canada,3.94,8.58
+Staples,Canada,3.75,8.17
+Nomad Stores,Canada,3.73,8.13
+Premium Stores,Canada,3.7,8.06
+Relief,Canada,3.61,7.86
+Amazon ,Chile,0.43,53.09
+Electricalsbea Stores,Chile,0.38,46.91
+Neptune,China,20.14,67.4
+Zone,China,5.43,18.17
+Taobao,China,4.31,14.42
+Electricalsbea Stores,Columbia,0.16,100
+Atliq Exclusive,France,4.26,11.26
+Sorefoz,France,4.09,10.81
+Media Markt,France,3.91,10.34
+Atliq e Store,France,3.91,10.34
+Amazon ,France,3.89,10.28
+Elite,France,3.7,9.78
+Elkjøp,France,3.64,9.62
+Chip 7,France,3.53,9.33
+Epic Stores,France,3.53,9.33
+UniEuro,France,3.37,8.91
+Atliq Exclusive,Germany,1.8,10.37
+Fnac-Darty,Germany,1.74,10.03
+Billa,Germany,1.65,9.51
+Amazon ,Germany,1.59,9.16
+Atliq e Store,Germany,1.58,9.11
+Otto,Germany,1.57,9.05
+Saturn,Germany,1.56,8.99
+Currys (Dixons Carphone),Germany,1.51,8.7
+Notebillig,Germany,1.47,8.47
+Expert,Germany,1.44,8.3
+Digimarket,Germany,1.44,8.3
+Amazon ,India,30,14.24
+Atliq Exclusive,India,23.98,11.38
+Flipkart,India,12.96,6.15
+Electricalsocity,India,12.31,5.84
+Propel,India,11.86,5.63
+Expression,India,11.55,5.48
+Atliq e Store,India,11.33,5.38
+Girias,India,11.3,5.36
+Vijay Sales,India,11.27,5.35
+Ebay,India,11.14,5.29
+Reliance Digital,India,11.1,5.27
+Electricalslytical,India,11.08,5.26
+Lotus,India,10.53,5
+Ezone,India,10.3,4.89
+Viveks,India,10.09,4.79
+Croma,India,9.88,4.69
+Atliq Exclusive,Indonesia,6.5,26.82
+Amazon ,Indonesia,6.03,24.88
+Atliq e Store,Indonesia,5.92,24.42
+Acclaimed Stores,Indonesia,5.79,23.89
+Atliq Exclusive,Italy,1.72,10.17
+Amazon ,Italy,1.66,9.81
+Unity Stores,Italy,1.6,9.46
+Coolblue,Italy,1.59,9.4
+Expert,Italy,1.56,9.22
+Fnac-Darty,Italy,1.55,9.16
+Boulanger,Italy,1.54,9.1
+Argos (Sainsbury's),Italy,1.49,8.81
+Euronics,Italy,1.46,8.63
+Atliq e Store,Italy,1.42,8.39
+Radio Popular,Italy,1.33,7.86
+Amazon ,Japan,2.62,25.31
+Atliq Exclusive,Japan,1.11,10.72
+All-Out,Japan,1.06,10.24
+Surface Stores,Japan,1.02,9.86
+Electricalsbea Stores,Japan,0.95,9.18
+Atliq e Store,Japan,0.94,9.08
+Flawless Stores,Japan,0.9,8.7
+Info Stores,Japan,0.89,8.6
+Neptune,Japan,0.86,8.31
+Amazon ,Mexico,0.61,51.26
+Atliq e Store,Mexico,0.58,48.74
+Atliq Exclusive,Netherlands,1.76,13.32
+Reliance Digital,Netherlands,1.65,12.49
+Radio Popular,Netherlands,1.51,11.43
+Atliq e Store,Netherlands,1.45,10.98
+Elkjøp,Netherlands,1.43,10.83
+Electricalslance Stores,Netherlands,1.4,10.6
+Media Markt,Netherlands,1.36,10.3
+Mbit,Netherlands,1.35,10.22
+Amazon ,Netherlands,1.3,9.84
+Atliq Exclusive,Newzealand,2.35,13.97
+Propel,Newzealand,2.28,13.56
+Logic Stores,Newzealand,2.21,13.14
+Leader,Newzealand,2.13,12.66
+Amazon ,Newzealand,2.1,12.49
+Epic Stores,Newzealand,1.93,11.47
+Path,Newzealand,1.92,11.41
+Atliq e Store,Newzealand,1.9,11.3
+Atliq Exclusive,Norway,2.74,13.58
+Chiptec,Norway,2.37,11.74
+Mbit,Norway,2.3,11.4
+Atliq e Store,Norway,2.26,11.2
+Sound,Norway,2.25,11.15
+Amazon ,Norway,2.16,10.7
+Boulanger,Norway,2.13,10.56
+UniEuro,Norway,2.01,9.96
+Synthetic,Norway,1.96,9.71
+Amazon ,Pakistan,1.55,20.92
+Nomad Stores,Pakistan,1.55,20.92
+Zone,Pakistan,1.48,19.97
+Atliq e Store,Pakistan,1.48,19.97
+Expression,Pakistan,1.35,18.22
+Synthetic,Philiphines,14.14,33.76
+Novus,Philiphines,12.91,30.82
+Atliq Exclusive,Philiphines,4.07,9.72
+Amazon ,Philiphines,3.72,8.88
+Insight,Philiphines,3.61,8.62
+Atliq e Store,Philiphines,3.44,8.21
+Atliq Exclusive,Poland,1.1,14.19
+Amazon ,Poland,1.06,13.68
+Argos (Sainsbury's),Poland,1,12.9
+Power,Poland,0.98,12.65
+Currys (Dixons Carphone),Poland,0.91,11.74
+Electricalsara Stores,Poland,0.91,11.74
+Atliq e Store,Poland,0.9,11.61
+Expert,Poland,0.89,11.48
+Atliq e Store,Portugal,1.73,9.29
+Electricalslance Stores,Portugal,1.67,8.97
+Power,Portugal,1.62,8.7
+Euronics,Portugal,1.6,8.59
+Amazon ,Portugal,1.57,8.43
+Sorefoz,Portugal,1.54,8.27
+Mbit,Portugal,1.53,8.22
+Info Stores,Portugal,1.51,8.11
+Electricalsara Stores,Portugal,1.51,8.11
+Forward Stores,Portugal,1.48,7.95
+Flawless Stores,Portugal,1.47,7.89
+Premium Stores,Portugal,1.39,7.47
+Sage,South Korea,22.85,35.7
+Leader,South Korea,22.38,34.96
+Atliq Exclusive,South Korea,6.85,10.7
+Atliq e Store,South Korea,6.06,9.47
+Amazon ,South Korea,5.87,9.17
+Flipkart,Spain,1.94,10.69
+Elite,Spain,1.71,9.43
+Relief,Spain,1.7,9.37
+Elkjøp,Spain,1.69,9.32
+Atliq e Store,Spain,1.67,9.21
+Boulanger,Spain,1.65,9.1
+Amazon ,Spain,1.62,8.93
+Media Markt,Spain,1.61,8.88
+Chiptec,Spain,1.56,8.6
+Euronics,Spain,1.55,8.54
+Integration Stores,Spain,1.44,7.94
+Amazon ,Sweden,0.5,21.46
+Sorefoz,Sweden,0.49,21.03
+Argos (Sainsbury's),Sweden,0.47,20.17
+Atliq e Store,Sweden,0.47,20.17
+Expert,Sweden,0.4,17.17
+Electricalslytical,United Kingdom,4.56,10.19
+Electricalsquipo Stores,United Kingdom,4.33,9.68
+UniEuro,United Kingdom,4.25,9.5
+Radio Popular,United Kingdom,4.1,9.17
+Logic Stores,United Kingdom,4.1,9.17
+Expert,United Kingdom,4.09,9.14
+Coolblue,United Kingdom,4,8.94
+Atliq e Store,United Kingdom,3.98,8.9
+Amazon ,United Kingdom,3.91,8.74
+Atlas Stores,United Kingdom,3.71,8.29
+Chip 7,United Kingdom,3.7,8.27
+Amazon ,USA,20.09,15.22
+Flipkart,USA,10.35,7.84
+Atliq Exclusive,USA,10.15,7.69
+Path,USA,9.1,6.89
+Ebay,USA,8.74,6.62
+walmart,USA,8.65,6.55
+Acclaimed Stores,USA,8.53,6.46
+Control,USA,8.48,6.42
+Atliq e Store,USA,8.48,6.42
+BestBuy,USA,8.26,6.26
+Costco,USA,8.24,6.24
+Circuit City,USA,8.11,6.14
+Staples,USA,7.74,5.86
+Radio Shack,USA,7.12,5.39

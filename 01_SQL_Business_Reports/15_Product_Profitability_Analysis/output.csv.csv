@@ -1,0 +1,69 @@
+segment,product,"Net Sales (Million)","Manufacturing Cost (Million)","Estimated Gross Profit (Million)","Estimated Gross Margin (%)"
+Desktop,"AQ BZ Allin1",33.75,20.57,13.18,39.06
+Accessories,"AQ Qwerty",27.84,16.66,11.18,40.17
+Accessories,"AQ Trigger",26.95,16.18,10.78,39.98
+Notebook,"AQ Gen Y",23.58,14.35,9.23,39.15
+Notebook,"AQ BZ Compact",22.22,13.32,8.90,40.05
+Accessories,"AQ Maxima",22.32,13.45,8.88,39.77
+Notebook,"AQ BZ Gen Z",21.83,13.14,8.69,39.82
+Accessories,"AQ Trigger Ms",22.18,13.63,8.54,38.53
+Notebook,"AQ Gen X",21.29,13.13,8.17,38.35
+Peripherals,"AQ Electron 4 3600 Desktop Processor",20.34,12.37,7.98,39.21
+Notebook,"AQ BZ Gen Y",20.40,12.45,7.95,38.96
+Accessories,"AQ Qwerty Ms",19.36,11.62,7.73,39.95
+Peripherals,"AQ Electron 5 3600 Desktop Processor",18.57,11.11,7.46,40.16
+Accessories,"AQ Lite",19.36,11.94,7.42,38.31
+Notebook,"AQ Elite",19.08,11.73,7.35,38.51
+Notebook,"AQ Smash 1",18.03,10.72,7.31,40.55
+Networking,"AQ Wi Power Dx3",18.10,10.87,7.24,39.98
+Peripherals,"AQ 5000 Series Ultron 8 5900X Desktop Processor",17.19,10.31,6.88,40.02
+Notebook,"AQ Gamer 3",17.27,10.44,6.83,39.57
+Accessories,"AQ Maxima Ms",17.21,10.40,6.81,39.57
+Accessories,"AQ Gamers ",16.66,9.93,6.73,40.40
+Notebook,"AQ Gamer 2",16.69,10.08,6.60,39.57
+Notebook,"AQ GEN Z",15.33,9.22,6.11,39.87
+Peripherals,"AQ 5000 Series Electron 8 5900X Desktop Processor",15.87,9.79,6.08,38.32
+Notebook,"AQ Digit",15.48,9.41,6.07,39.22
+Peripherals,"AQ Electron 3 3600 Desktop Processor",14.95,9.06,5.89,39.39
+Networking,"AQ Wi Power Dx2",14.61,8.80,5.81,39.75
+Notebook,"AQ Smash 2",14.39,8.61,5.78,40.20
+Peripherals,"AQ 5000 Series Electron 9 5900X Desktop Processor",14.42,8.67,5.75,39.85
+Accessories,"AQ Lite Ms",14.20,8.55,5.64,39.74
+Notebook,"AQ Velocity",13.54,8.06,5.48,40.47
+Networking,"AQ Wi Power Dx1",12.45,7.50,4.95,39.76
+Storage,"AQ Clx2",12.20,7.31,4.90,40.14
+Notebook,"AQ Gamer 1",12.15,7.34,4.81,39.62
+Accessories,"AQ Gamers Ms",12.04,7.28,4.77,39.59
+Accessories,"AQ Master wireless x1",12.24,7.53,4.71,38.47
+Storage,"AQ Clx1",11.61,7.06,4.55,39.22
+Storage,"AQ Neuer SSD",11.18,6.67,4.51,40.36
+Peripherals,"AQ Mforce Gen Z",11.11,6.71,4.40,39.62
+Notebook,"AQ BZ 101",10.44,6.30,4.14,39.66
+Storage,"AQ Digit SSD",9.25,5.61,3.65,39.40
+Peripherals,"AQ Mforce Gen Y",8.72,5.24,3.48,39.88
+Accessories,"AQ Master wired x1",8.77,5.38,3.38,38.59
+Accessories,"AQ Master wireless x1 Ms",8.53,5.16,3.37,39.47
+Desktop,"AQ Home Allin1",7.17,4.32,2.85,39.72
+Peripherals,"AQ Marquee P3",6.87,4.14,2.73,39.74
+Peripherals,"AQ GT 21",6.11,3.73,2.37,38.88
+Desktop,"AQ HOME Allin1 Gen 2",5.51,3.31,2.20,39.88
+Accessories,"AQ Master wired x1 Ms",5.35,3.22,2.13,39.77
+Storage,"AQ Clx3",4.63,2.69,1.93,41.80
+Notebook,"AQ Aspiron",4.77,2.85,1.92,40.24
+Accessories,"AQ Lumina Ms",4.44,2.56,1.88,42.36
+Peripherals,"AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",4.12,2.46,1.66,40.29
+Peripherals,"AQ MB Lito",3.97,2.34,1.62,40.97
+Storage,"AQ Pen Drive DRC",4.01,2.44,1.57,39.09
+Peripherals,"AQ Zion Saga",3.83,2.31,1.52,39.61
+Peripherals,"AQ MB Lito 2",3.52,2.09,1.43,40.70
+Peripherals,"AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm",3.52,2.13,1.39,39.54
+Peripherals,"AQ MB Crossx 2",3.47,2.11,1.36,39.10
+Peripherals,"AQ Mforce Gen X",3.10,1.83,1.27,40.91
+Peripherals,"AQ MB Crossx",2.76,1.68,1.08,39.11
+Accessories,"AQ Mx NB",2.50,1.50,0.99,39.84
+Peripherals,"AQ MB Elite",2.33,1.41,0.91,39.24
+Accessories,"AQ LION x3",2.11,1.27,0.84,39.80
+Peripherals,"AQ Marquee P4",1.76,1.06,0.70,39.95
+Accessories,"AQ LION x2",1.65,1.03,0.62,37.72
+Storage,"AQ Pen Drive 2 IN 1",1.54,0.97,0.57,37.11
+Accessories,"AQ LION x1",1.15,0.69,0.46,40.07
